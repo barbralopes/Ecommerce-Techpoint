@@ -80,6 +80,8 @@ Este projeto foi desenvolvido com fins acadêmicos, visando:
 
 ---
 
-## 📄 Licença
+## 🔗 Acesse o Repositório
 
-Projeto acadêmico desenvolvido para fins educacionais.
+Para mais informações sobre o projeto, acesse o repositório oficial no GitHub:
+
+👉 https://github.com/pedro-psilva/techpoint.git
